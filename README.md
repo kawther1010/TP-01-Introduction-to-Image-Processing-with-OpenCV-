@@ -1,4 +1,4 @@
-# 📷 TP 01: Introduction to Image Processing with OpenCV  
+# 📷 TP 01: Introduction to Image Processing with OpenCV  BY Dr Guessoum
 
 ## 🎯 Objective  
 Understand how to read, display, and save images using OpenCV.  
